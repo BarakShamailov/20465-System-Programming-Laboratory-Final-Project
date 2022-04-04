@@ -1,0 +1,63 @@
+ERROR, LINE 5:	 Entry directive must have a label parameter.
+ERROR, LINE 7:	 cant be entry and external label with the same name   "wNumber".
+ERROR, LINE 9:	 external label , cant appear before operand or data operand  "LOOP".
+ERROR, LINE 9:	 illegal comma .
+ERROR, LINE 10:	 illegal comma .
+ERROR, LINE 11:	  The label already exists "END".
+ERROR, LINE 11:	 illegal comma .
+ERROR, LINE 13:	 Invalid string missing double quotes "aBcd"".
+ERROR, LINE 14:	 Invalid string missing double quotes "aBcd".
+ERROR, LINE 16:	 missing comma.
+ERROR, LINE 17:	 illegal comma .
+ERROR, LINE 18:	 missing comma.
+ERROR, LINE 19:	 consective commas.
+ERROR, LINE 20:	 illegal comma.
+ERROR, LINE 21:	 missing parameters , must be parameters after the operand .
+ERROR, LINE 22:	 missing comma.
+ERROR, LINE 23:	 illegal comma.
+ERROR, LINE 25:	 illegal comma .
+ERROR, LINE 26:	 illegal comma .
+ERROR, LINE 27:	 illegal comma .
+ERROR, LINE 28:	 missing parameters , must be parameters after the operand .
+ERROR, LINE 29:	 consective commas .
+ERROR, LINE 30:	 missing comma "$12,$5 $15".
+ERROR, LINE 31:	 illegal comma .
+ERROR, LINE 33:	 illegal comma.
+ERROR, LINE 34:	 illegal comma.
+ERROR, LINE 35:	 illegal comma.
+ERROR, LINE 36:	 missing comma.
+ERROR, LINE 37:	 missing comma.
+ERROR, LINE 38:	 illegal comma.
+ERROR, LINE 39:	 consective commas.
+ERROR, LINE 41:	 illegal comma.
+ERROR, LINE 42:	 missing parameters , must be parameters after the operand .
+ERROR, LINE 43:	 missing comma.
+ERROR, LINE 44:	 illegal comma.
+ERROR, LINE 45:	 illegal comma.
+ERROR, LINE 46:	 missing comma.
+ERROR, LINE 48:	 Illegal label  "323".
+ERROR, LINE 48:	 Illegal parameter to jmp operand ,should be label or register .
+ERROR, LINE 49:	 Label "K" was not declared.
+ERROR, LINE 50:	 Illegal label  "!@#4".
+ERROR, LINE 50:	 Illegal parameter to jmp operand ,should be label or register .
+ERROR, LINE 51:	 missing parameters , must be parameters after the operand .
+ERROR, LINE 52:	 missing parameters , must be parameter after the operand .
+ERROR, LINE 53:	 Illegal label  "$32".
+ERROR, LINE 53:	 Illegal parameter to jmp operand ,should be label .
+ERROR, LINE 54:	 Illegal label  "@#@3".
+ERROR, LINE 54:	 Illegal parameter to jmp operand ,should be label .
+ERROR, LINE 55:	 Label "K" was not declared.
+ERROR, LINE 56:	 Label "K" was not declared.
+ERROR, LINE 57:	 missing parameters , must be parameter after the operand .
+ERROR, LINE 58:	 Illegal label  "$%#".
+ERROR, LINE 58:	 Illegal parameter to jmp operand ,should be label .
+ERROR, LINE 59:	 Illegal label  "12123".
+ERROR, LINE 59:	 Illegal parameter to jmp operand ,should be label .
+ERROR, LINE 60:	 extra parameter .
+ERROR, LINE 62:	 Invalid directive ->  ".fggh".
+ERROR, LINE 63:	 illegal comma .
+ERROR, LINE 64:	 missing comma "0,667 2".
+ERROR, LINE 65:	 consective commas .
+ERROR, LINE 66:	 illegal comma .
+ERROR, LINE 67:	 illegal comma .
+ERROR, LINE 68:	 illegal comma .
