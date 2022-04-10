@@ -27,7 +27,7 @@ Use makefile to compile the project like this:
    > make
 ```
 
-After preparing assembly files with an .as extension, open terminal and pass file names as arguments (without the file extensions) as following:
+After preparing assembly files with an .as extension, open terminal and pass file names as arguments as following:
 
 As for the files file1.as, file2.as, file3.as we will run:
 
