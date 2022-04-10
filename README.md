@@ -13,11 +13,11 @@ interpret the files according to given rules
 
 output the interpretation, in three files:
 
-ob. - memory image and instructions (hex)
+* ob. - memory image and instructions (hex)
 
-ent. - symbol table
+* ent. - symbol table
 
-ext. - list of external values
+* ext. - list of external values
 
 The project was coded and compiled using Ubuntu, but it may run on all Linux versions.
 
