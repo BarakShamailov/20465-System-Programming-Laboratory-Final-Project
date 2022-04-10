@@ -23,15 +23,21 @@ The project was coded and compiled using Ubuntu, but it may run on all Linux ver
 
 Use makefile to compile the project like this:
 
+```bash
+   > make
+```
 
 After preparing assembly files with an .as extension, open terminal and pass file names as arguments (without the file extensions) as following:
 
-As for the files x.as, y.as, hello.as we will run:
+As for the files file1.as, file2.as, file3.as we will run:
 
->   assembler x y hello
+```bash
+  > ./assembler file1.as file2.as file3.as
+```
 The assembler will generate output files with the same filenames and the following extensions:
 
-.ob - Object file
-.ent - Entries file
-.ext - Externals file
+* .ob - Object file
+* .ent - Entries file
+* .ext - Externals file
+
 Examples of input and output files can be found under the 'test' folders.
