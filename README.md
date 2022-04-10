@@ -23,7 +23,7 @@ The project was coded and compiled using Ubuntu, but it may run on all Linux ver
 
 Use makefile to compile the project like this:
 
->   make
+
 After preparing assembly files with an .as extension, open terminal and pass file names as arguments (without the file extensions) as following:
 
 As for the files x.as, y.as, hello.as we will run:
